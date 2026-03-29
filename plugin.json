@@ -1,0 +1,15 @@
+{
+    "id": "default-all-servers-tab",
+    "name": "Default All Servers Tab",
+    "author": "Yonn",
+    "version": "1.0.0",
+    "description": "Sets 'All Servers' as the default tab on the servers page",
+    "category": "plugin",
+    "url": null,
+    "update_url": null,
+    "namespace": "Yonn\\DefaultAllServersTab",
+    "class": "DefaultAllServersTabPlugin",
+    "panels": null,
+    "panel_version": null,
+    "composer_packages": null
+}
