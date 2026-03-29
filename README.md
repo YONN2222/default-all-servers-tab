@@ -25,10 +25,6 @@ https://github.com/YONN2222/default-all-servers-tab/releases/latest/download/def
 3. Open the Pelican Panel plugin installer
 4. Upload the ZIP file there
 
-### After Installation
-
-The plugin will be automatically discovered by Pelican Panel. Once enabled, opening the servers page without a `tab` query parameter will redirect users to the **All Servers** tab.
-
 ## License
 
 MIT
